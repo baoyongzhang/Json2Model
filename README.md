@@ -1,5 +1,5 @@
 Json2Model
 ==========
 
-Json to Model<br/>
+Json to Model
 将json字符串转换为java bean。
